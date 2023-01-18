@@ -1,6 +1,6 @@
 ### Hi, I'm Akmaljon Tuychiyev <img src="https://media3.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b76112fbff37646d7dfff5ff600ddd3cfba3ccc5d4b96&rid=giphy.gif&ct=s" width="30px">
-<br>
+<br/>
 I upload my projects here
-<br>
+<br/>
 ### Languages and tools I work with:
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" height="25px"><code/>
